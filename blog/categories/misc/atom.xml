@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Misc | indeed]]></title>
+  <link href="http://blog.thewatts.io/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://blog.thewatts.io/"/>
+  <updated>2014-01-31T15:17:14-07:00</updated>
+  <id>http://blog.thewatts.io/</id>
+  <author>
+    <name><![CDATA[Nathaniel Watts]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World?]]></title>
+    <link href="http://blog.thewatts.io/blog/2013/12/31/hello-world/"/>
+    <updated>2013-12-31T06:41:39-07:00</updated>
+    <id>http://blog.thewatts.io/blog/2013/12/31/hello-world</id>
+    <content type="html"><![CDATA[<p>First post.</p>
+
+<p>My hopes: reflect on life, experiences, and add some value to the development
+community.</p>
+
+<p><em>Sidenote</em> &ndash;
+I have quite a few older blog posts from the past 4 months. I&rsquo;ll be
+retroactively adding them as time passes. This post, however, is my MVP.</p>
+]]></content>
+  </entry>
+  
+</feed>

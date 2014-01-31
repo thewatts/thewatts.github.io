@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.thewatts.io/blog/2013/12/31/hello-world/</loc>
+        <lastmod>2014-01-14T10:15:34-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.thewatts.io/blog/2014/01/14/pathfinder-ruby-and-the-a-star-algorithm/
+        </loc>
+        <lastmod>2014-01-15T08:03:46-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/blog/2014/01/15/pathfinder-part-2-a-star-insight/</loc>
+        <lastmod>2014-01-15T13:04:54-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/archives/</loc>
+        <lastmod>2014-01-15T13:04:54-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/blog/archives/</loc>
+        <lastmod>2014-01-15T13:04:54-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/blog/</loc>
+        <lastmod>2014-01-15T13:04:54-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/</loc>
+        <lastmod>2014-01-15T13:04:54-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.thewatts.io/robots.txt</loc>
+        <lastmod>2013-12-31T08:02:07-07:00</lastmod>
+    </url>
+</urlset>
